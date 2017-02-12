@@ -1,10 +1,10 @@
 # middleware-datefile
 Middleware for json-server.
 
-For request
+For request:
 GET  /check?obj=D:\1.txt 
 
-json-server return object: 
+json-server returns object: 
 
 {
   "obj": "D:\\1.txt",
