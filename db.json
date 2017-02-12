@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id":1,
+      "name": "EDO"
+    },
+    {
+      "id":2,
+      "name": "Dictionary"
+    }
+  ],
+  "lists": [
+    {
+      "id":1,
+      "task": "EDO",
+      "obj": "d:\temp\file.log",
+      "datetime": "2012-04-23T18:25:43.511Z",
+      "needcheck": true
+    }, 
+    {
+      "id":2,
+      "task": "EDO2",
+      "obj": "d:\temp\file.log",
+      "datetime": "2012-04-23T18:25:43.511Z",
+      "needcheck": true
+    } 
+  ],
+  "dp": {
+    "name": "TestDP"
+  }
+}
